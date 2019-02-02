@@ -1,0 +1,7 @@
+z = 54
+v = 15
+
+puts z+v
+puts z/v
+puts z-v
+puts z*v
