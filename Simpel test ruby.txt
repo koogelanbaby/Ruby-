@@ -1,0 +1,16 @@
+C:\>irb
+irb(main):001:0> 3+90
+=> 93
+irb(main):002:0> puts "Hello world"
+Hello world
+=> nil
+irb(main):003:0> if 1 > 2
+irb(main):004:1> puts "1 is greater than 2"
+irb(main):005:1> elseif 2 > 1
+irb(main):006:1> puts "1 is not greater than 2"
+irb(main):007:1> else
+irb(main):008:1> puts "1 is equal to 2"
+irb(main):009:1> end
+1 is equal to 2
+=> nil
+irb(main):010:0>
