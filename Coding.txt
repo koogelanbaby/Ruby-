@@ -1,0 +1,13 @@
+irb(main):057:0> #own coding
+=> nil
+irb(main):058:0> relative_Name = [
+irb(main):059:1* "osaka",
+irb(main):060:1* "Durian",
+irb(main):061:1* "Susuno",
+irb(main):062:1* "Toka",
+irb(main):063:1* "Mika"]
+=> ["osaka", "Durian", "Susuno", "Toka", "Mika"]
+irb(main):064:0> print relatives_Name[3]
+irb(main):065:0> print relative_Name[3]
+Toka=> nil
+irb(main):066:0>
