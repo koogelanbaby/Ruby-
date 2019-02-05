@@ -1,0 +1,14 @@
+print "Enter Greetings :"
+greeting = gets.chomp
+case greeting
+when "French","french"
+  puts "Bonjour"
+  exit
+when "Spanish","spanish"
+  puts "hola"
+  exit
+when "Russian","russian"
+  puts "Zdrastvooyte"
+else
+  puts "Hello"
+end
