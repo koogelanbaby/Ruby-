@@ -1,0 +1,11 @@
+def add_nums(num_1, num_2)
+  return num_1.to_i - num_2.to_i
+end
+puts add_nums(200, 160)
+
+y = 1
+def change_y (y)
+  y = 6
+end
+change_y(y)
+puts "y = #{y}"
